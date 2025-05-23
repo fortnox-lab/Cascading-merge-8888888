@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: Automatic Merge
-        uses: ActionsDesk/cascading-downstream-merge@latest
+        uses: ActionsDesk/cascading-downstream-merge@v3.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           prefixes: release/
