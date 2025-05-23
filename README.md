@@ -1,3 +1,3 @@
 # cascading-merge
 
-1.0.0
+test 1.0.2
